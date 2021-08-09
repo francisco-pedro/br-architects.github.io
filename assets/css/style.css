@@ -370,7 +370,7 @@ h6 {
 }
 
 
-@  media ( largura mínima : 384  pixels ) e ( largura máxima : 435 pixels ) {
+@media ( min-width: 384px ) and ( max-width : 435px ) {
 
     .top__menu {
         padding: .1rem 1rem;
